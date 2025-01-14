@@ -25,6 +25,7 @@ export const InputTextArea: React.FC<InputTextAreaProps> = ({
       rows={rows}
       readOnly={readOnly}
       className={`p-2 border rounded-lg bg-gray-50 ${className}`} 
+      required
     />
   );
 };

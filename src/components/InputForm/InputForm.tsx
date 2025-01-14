@@ -9,6 +9,7 @@ export default function InputForm({ placeholder, value, onChange,  className = "
         className={` p-2 border border-gray-300 rounded-lg ${className}`}
         value={value}
         onChange={onChange}
+        required
       />
     </div>
   );
