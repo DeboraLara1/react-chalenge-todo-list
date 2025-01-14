@@ -1,0 +1,13 @@
+.header {
+    background-color: #07351c;; /* verde */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.menuItem{
+    color: #ffffff;
+}
+
+.menuItem:hover{
+    color: #ffffff;
+    font-weight: bold;
+}
