@@ -1,0 +1,27 @@
+.contentButton {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+
+.button {
+  width: 200px;
+  height: 42px;
+  border-radius: 5px;
+  background-color: #38a169;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 668px) {
+  .button {
+    width: 185px;
+    height: 39px;
+    border-radius: 5px;
+    background-color: #38a169;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+  }
+}
