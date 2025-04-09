@@ -16,7 +16,6 @@
   <a href="#-como-usar">Como Usar</a> •
   <a href="#-estrutura-do-projeto">Estrutura</a> •
   <a href="#-contribuições">Contribuições</a> •
-  <a href="#-licença">Licença</a>
 </p>
 
 ## 📋 Sobre
