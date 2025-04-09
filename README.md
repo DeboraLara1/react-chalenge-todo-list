@@ -37,7 +37,7 @@ Desenvolvido como parte de um desafio técnico, o TaskFlow demonstra boas práti
 ## 🎯 Demonstração
 
 <p align="center">
-  <img src="./assets/apresentação do projeto.wmv" alt="TaskFlow Demo" width="600"/>
+  <img src="./assets/apresentação-do-projeto.gif" alt="TaskFlow Demo" width="600"/>
 </p>
 
 ## 🚀 Tecnologias
