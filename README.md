@@ -15,7 +15,7 @@
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-como-usar">Como Usar</a> •
   <a href="#-estrutura-do-projeto">Estrutura</a> •
-  <a href="#-contribuições">Contribuições</a> •
+  <a href="#-contribuições">Contribuições</a> 
 </p>
 
 ## 📋 Sobre
@@ -119,7 +119,7 @@ Contribuições são sempre bem-vindas! Se você tem uma sugestão para melhorar
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ por <a href="https://github.com/DeboraLara1">Débora Lara</a>
+  Desenvolvido com ❤️ por <a href="https://github.com/DeboraLara1">Debora Lara</a>
 </p>
 
 <p align="center">
