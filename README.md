@@ -1,7 +1,7 @@
 # 🌊 TaskFlow - Gerenciador de Tarefas Inteligente
 
 <p align="center">
-  <img src="./src/assets/taskflow-logo.png" alt="TaskFlow Logo" width="200"/>
+  <img src="./assets/Screenshot_1.png" alt="TaskFlow Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Desenvolvido como parte de um desafio técnico, o TaskFlow demonstra boas práti
 ## 🎯 Demonstração
 
 <p align="center">
-  <img src="./src/assets/taskflow-demo.gif" alt="TaskFlow Demo" width="600"/>
+  <img src="./assets/apresentação do projeto.wmv" alt="TaskFlow Demo" width="600"/>
 </p>
 
 ## 🚀 Tecnologias
